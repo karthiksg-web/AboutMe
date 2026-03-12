@@ -164,9 +164,6 @@ CorelDRAW
 📧 Email  
 karthik.sulakhe6@gmail.com
 
-💼 LinkedIn  
-https://linkedin.com/in/karthiksg
-
 💻 GitHub  
 https://github.com/karthiksg-web
 
