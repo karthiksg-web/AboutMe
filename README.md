@@ -55,14 +55,6 @@ I enjoy building practical software solutions including **AI models, dashboards,
 
 ---
 
-# 📊 GitHub Stats
-
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiksg-web&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksg-web&layout=compact&theme=tokyonight)
-
----
-
 # 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthiksg-web&theme=tokyo-night)
