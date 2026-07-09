@@ -15,7 +15,7 @@ Motivated Computer Science Engineering student with hands-on experience in:
 • Data Analytics & Business Intelligence  
 • UI/UX Design  
 
-Currently pursuing **B.E in Computer Science Engineering** with **CGPA: 8.34** at  
+Recently Graduated **B.E in Computer Science Engineering** with **CGPA: 8.52** From 
 **Maharaja Institute of Technology, Mysore**.
 
 I enjoy building practical software solutions including **AI models, dashboards, and web applications.**
